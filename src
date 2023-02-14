@@ -1,8 +1,3 @@
-# Not-Ortalamasi-Hesaplayan-Program
-Java Not Ortalamasi Hesaplayan Program
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
